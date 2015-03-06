@@ -8,7 +8,7 @@ Created at the [LAUNCH Hackathon 2015](http://launch2015.challengepost.com/).
 
 ## License
 
-Copyright (C) 2015 hackEDU
+Copyright &copy; 2015 [hackEDU](http://hackedu.us)
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
